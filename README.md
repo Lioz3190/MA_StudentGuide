@@ -1,16 +1,16 @@
-# MA_StudentGuide
+# MA_StudentGuide 
 ##Vision du produit
 
-* Nom :  Le guide du parfait étudiant
+* Nom :  Le guide du parfait étudiant :bowtie:
 
-##Explications : 
+###Explications : 
 Comment s’en sortir en étant étudiant ?
 Un petit guide de la vie de l’étudiant parfait dans son quotidien universitaire et personnel. 
 
-##L’état du monde, ce qui pousse au changement:
+###L’état du monde, ce qui pousse au changement:
 Aujourd’hui, le  taux d’abandon  à l’université est atterrant ! Le décrochage scolaire est de plus en plus fréquent surtout en première année. La situation ne peut pas stagner dans son état actuel. Cet état des lieux peut effrayer les étudiant en devenir comme les lycéens. C’est pour cela que nous avons décidé de réaliser ce guide, afin d’accompagner les étudiants perdus, esseulés …
 
-##Les hypothèses:
+###Les hypothèses:
 
 * Hypothèse n°1 : L’université est vaste et il est difficile de s’y repérer, cela peut être décourageant.
 * Hypothèse n°2 : L’étudiant ne prend pas le temps de s’habiller correctement le matin.
@@ -23,7 +23,7 @@ Aujourd’hui, le  taux d’abandon  à l’université est atterrant ! Le décr
 * Hypothèse n°9 : L’étudiant est en manque d’exercice.
 
 
-##Les objectifs:
+###Les objectifs:
 	
 * Hypothèse n°1 → Proposer une carte détaillée de l’université.
 * Hypothèse n°2 → Méthode pour avoir du style.
@@ -35,12 +35,12 @@ Aujourd’hui, le  taux d’abandon  à l’université est atterrant ! Le décr
 * Hypothèse n°8 →Proposer un article sur les relations amoureuses durables.
 * Hypothèse n°9 → Méthode pour garder son corps en bonne forme physique.
 
-##Personna :
+###Personna :
 Julie, 18 ans, vient d’arriver à l’université. Elle est titulaire d’un Bac Scientifique, et souhaite rentrer en licence informatique. Elle a été accepté dans la cité universitaire de Daniel Faucher, même si ce n’est qu’un petit 9m2, elle a son propre “appartement” et n’a pas à rentrer chez ses parents qui habitent à 1h30 de la fac. Elle est obligée de se lever très tôt le matin, car elle ne sait jamais où elle a cours, et se perd régulièrement dans l’université… 
 Julie n’a pas de cuisine dans son appartement, elle ne mange donc que des conserves, ou des pâtes cuites dans un tuperware conçu pour passer au micro-ondes ….
 Comme elle vient d’arriver sur Toulouse, elle ne connaît pas encore grand monde et reste le soir seule dans sa petite chambre. Comme le réseau internet de la cité universitaire ne marche quasiment jamais, elle a perdu contact avec ses amis du lycée… 
 
-###Les rôles impliqués :
+####Les rôles impliqués :
 
 * L’étudiant lui-même (logique….)
 * Les professeurs.
@@ -52,7 +52,7 @@ Comme elle vient d’arriver sur Toulouse, elle ne connaît pas encore grand mon
 * L’équipe de développement
 * Le SCRUM Master
 
-##Les thèmes :
+###Les thèmes :
 
 Le thème sera donc autour de la solitude, des cours, de la nourriture (étudiantes bien-sûr !), et des occupations extra-scolaires d’un étudiant. Le guide sera court  pour ne pas “gaver” le lecteur.
 principales caractéristiques fonctionnelles et non fonctionnelles
@@ -75,7 +75,7 @@ principales caractéristiques fonctionnelles et non fonctionnelles
  * Le guide doit comporter des numéros de téléphone utiles.
  * Le guide doit être un guide … C’est pas faux
 
-###lien avec personna
+####Liens avec Personnas
 
 Julie  vient d’arriver à l’université, elle ne sait jamais où elle a cours, et se perd régulièrement dans l’université : la carte de l’université lui sera utile pour se repérer.
 Elle habite en cité universitaire et n’a pas de cuisine : les recettes et les conseils de nutrition lui seront très utiles.
